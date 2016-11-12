@@ -1,0 +1,33 @@
+{
+  "name": "fcoo-modernizr",
+  "version": "1.0.0",
+  "homepage": "https://github.com/FCOO/fcoo-modernizr",
+  "authors": [
+    "NielsHolt"
+  ],
+  "description": "",
+  "main": [
+    "dist/fcoo-modernizr.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FCOO/fcoo-modernizr.git"
+  },
+  "dependencies": {
+    "jquery": "latest"
+  },
+  "devDependencies": {
+    "modernizr-scss": "https://github.com/FCOO/modernizr-scss.git#latest"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "moduleType": [
+    "es6"
+  ]
+}
